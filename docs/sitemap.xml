@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/posts/bienvenidos/</loc>
+    <loc>https://gonzalo-aguero.github.io/hugo-course/posts/bienvenidos/</loc>
     <lastmod>2023-02-04T17:23:54-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/</loc>
+    <loc>https://gonzalo-aguero.github.io/hugo-course/</loc>
     <lastmod>2023-02-04T17:23:54-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/</loc>
+    <loc>https://gonzalo-aguero.github.io/hugo-course/posts/</loc>
     <lastmod>2023-02-04T17:23:54-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/posts/primer-post/</loc>
+    <loc>https://gonzalo-aguero.github.io/hugo-course/posts/primer-post/</loc>
     <lastmod>2023-02-04T17:23:29-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/contact/</loc>
+    <loc>https://gonzalo-aguero.github.io/hugo-course/contact/</loc>
     <lastmod>2023-02-04T17:13:34-03:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/blog/</loc>
+    <loc>https://gonzalo-aguero.github.io/hugo-course/tags/blog/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/</loc>
+    <loc>https://gonzalo-aguero.github.io/hugo-course/post/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/test/</loc>
+    <loc>https://gonzalo-aguero.github.io/hugo-course/post/test/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://gonzalo-aguero.github.io/hugo-course/tags/</loc>
     <lastmod>2017-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/test/</loc>
+    <loc>https://gonzalo-aguero.github.io/hugo-course/tags/test/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/post/test/</loc>
+    <loc>https://gonzalo-aguero.github.io/hugo-course/post/test/</loc>
     <lastmod>2016-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://gonzalo-aguero.github.io/hugo-course/categories/</loc>
   </url>
 </urlset>
