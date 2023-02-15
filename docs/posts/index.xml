@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
+    <title>Posts on Coding Empire</title>
     <link>https://gonzalo-aguero.github.io/hugo-course/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <description>Recent content in Posts on Coding Empire</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Sat, 04 Feb 2023 17:23:54 -0300</lastBuildDate><atom:link href="https://gonzalo-aguero.github.io/hugo-course/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 06 Feb 2023 23:42:07 -0300</lastBuildDate><atom:link href="https://gonzalo-aguero.github.io/hugo-course/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bienvenidos</title>
       <link>https://gonzalo-aguero.github.io/hugo-course/posts/bienvenidos/</link>

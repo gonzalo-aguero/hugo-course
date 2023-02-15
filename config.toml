@@ -1,8 +1,9 @@
 baseURL = 'https://gonzalo-aguero.github.io/hugo-course/'
 languageCode = 'es'
-title = 'My New Hugo Site'
-theme = 'hugo-theme-air'
+title = 'Coding Empire'
+theme = 'tale'
 
+#menu = 'main'
 [menu]
   [[menu.main]]
 	identifier = "contacto"
