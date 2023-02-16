@@ -1,5 +1,5 @@
 ---
-title: "Contact"
+title: "Contacto"
 date: 2023-02-04T17:13:34-03:00
 draft: false
 ---
